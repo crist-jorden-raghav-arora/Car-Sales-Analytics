@@ -1,0 +1,2 @@
+Create a dynamic and interactive Car Sales Power-BI Dashboard using Power BI, which shows the visualization of critical KPIs related to car sales, and it is helpful to understand sales performance over time and make data-driven decisions.
+The dashboard provides real-time insights into key performance indicators (KPIs) related to sales data. It helps to make informed decisions, monitor progress, and identify trends and opportunities for growth.
